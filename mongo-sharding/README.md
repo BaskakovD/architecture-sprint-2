@@ -4,12 +4,13 @@
 
 1. Запускаем `docker compose`
 
-`docker compose up -d`
+    `docker compose up -d`
 
 2. Инициируем базу данных
 
-`./mongo-sharding.sh`
+    `./mongo-sharding.sh`
 
 
 3. Проверяем количество документов
-`./mongo-db-checker.sh`
+
+   `./mongo-db-checker.sh`
