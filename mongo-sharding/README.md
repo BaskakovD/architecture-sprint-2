@@ -3,7 +3,5 @@
 ## Запуск проекта
 
 1. Запускаем mongodb и приложение
-
-
-'docker compose up -d'
+`docker compose up -d`
 
